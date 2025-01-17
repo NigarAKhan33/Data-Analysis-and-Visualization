@@ -12,7 +12,7 @@ By using this dataset, I’ve crafted Captivating  visualizations showcasing the
 
 Microsoft SQL Server Management Studio and Visual Studio 2022 were used to create a data warehouse which enabled handling processing of the Adidas sales dataset efficiently. 
 
-# Prerequisites
+# tools used 
 
 - Microsoft SQL Server Management Studio
 - Visual Studio 2022 
