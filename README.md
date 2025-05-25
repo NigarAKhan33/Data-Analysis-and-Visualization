@@ -4,19 +4,25 @@ DATA  ANALYTICS AND VISUALISATION USING ADIDAS SALES DATASET
 
 # Overview
 
-I have established a robust  Data Warehouse using Adidas Sales Dataset.
+This project is a comprehensive end-to-end data analytics and business intelligence solution built using the Adidas sales dataset. It began with selecting a relevant business domain and identifying key stakeholders, business requirements, and goals. A dimensional model was designed and implemented using SQL Server to create a Data Warehouse/Data Mart, supported by ETL processes to populate and maintain it. The data was thoroughly explored, cleaned, and prepared for analysis using SQL and Python, applying various data analytics techniques for insight generation and model evaluation.
 
-It contained a single Excel Sheet which compromised of Adidas products sales data for a specified timeframe. 
+In the modeling phase, multiple machine learning algorithms were applied, including Linear Regression, Random Forest, Decision Tree, and K-Nearest Neighbors (KNN). Among these, the Random Forest algorithm showed the most consistent performance across both "Active" and "Inactive" classes. However, when evaluating by class, Linear Regression and Decision Tree performed best for the "Active" class, while KNN was most effective for the "Inactive" class. This hands-on experience significantly deepened my understanding of data mining operations, from exploratory analysis and data processing to building and evaluating predictive models, and helped me sharpen my machine learning skills.
 
-By using this dataset, I’ve crafted Captivating  visualizations showcasing the intricacies of Adidas sales, by employing advanced tools such as Tableau, these visualizations offer insights into sales trends and performance metrics. Moreover, the dataset facilitates the generation of comprehensive SSRS  reports directly from the SQL Server data warehouse.
-
-Microsoft SQL Server Management Studio and Visual Studio 2022 were used to create a data warehouse which enabled handling processing of the Adidas sales dataset efficiently. 
+Interactive visualizations were created using Tableau, and structured operational reports were developed using SSRS to support business decision-making. The project highlights a strong focus on real-world business needs, combining data modeling, ETL pipelines, analytics, and dashboard/report development to deliver actionable insights.
 
 # tools used 
 
-- Microsoft SQL Server Management Studio
-- Visual Studio 2022 
-- Tableau
+- SQL Server – Data storage, querying, ETL, and schema design
+
+- SSRS (SQL Server Reporting Services) – Report creation and distribution
+
+- Tableau – Data visualization and interactive dashboard development
+
+- Python – Data cleaning, analysis, and support for model evaluation
+
+- Excel – Initial exploration and validation (if used)
+
+- ERD Tools / Diagramming Tools – Dimensional modeling (e.g., Star Schema)
 
 
 
