@@ -20,7 +20,7 @@ Interactive visualizations were created using Tableau, and structured operationa
 
 - Python – Data cleaning, analysis, and support for model evaluation
 
-- Excel – Initial exploration and validation (if used)
+- Excel – Initial exploration and validation
 
 - ERD Tools / Diagramming Tools – Dimensional modeling (e.g., Star Schema)
 
